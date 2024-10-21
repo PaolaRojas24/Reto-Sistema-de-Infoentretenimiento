@@ -11,3 +11,4 @@ Se desarrolló un sistema de control de vehículo y reproducción de audio. El a
 <h3>mbot Mega</h3>
 <h3>Base de datos</h3>
 <h3>Reproductor de música</h3>
+![interfaz](https://github.com/user-attachments/assets/dcfabee7-c7c4-4c92-aff1-5ade7bd7796d)
